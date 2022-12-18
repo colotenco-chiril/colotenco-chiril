@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning of WebDev direction 
 - 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on automovie project
-- 📫 How to reach me? chirilcolotenco17@gmail.com/ Chiril Colotenco Linkeding / 
+- 📫 How to reach me? chirilcolotenco17@gmail.com/ Chiril Colotenco Linkedin / 
 
 <!---
 colotenco-chiril/colotenco-chiril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
